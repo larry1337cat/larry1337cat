@@ -40,6 +40,10 @@ Loc:
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://viet-stats-card.vercel.app/api/stats?username=larry1337-cat&theme=dark&chart=bar" alt="Viet Stats Card" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Larry1337-cat&theme=radical&utcOffset=7" alt="productive time" />
 </p>
 

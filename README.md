@@ -32,7 +32,7 @@ Loc:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,java,git,github,vscode&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,html,java,git,github,vscode&theme=light" alt="skills" />
 </p>
 
 ---
@@ -40,15 +40,15 @@ Loc:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://viet-stats-card.vercel.app/api/stats?username=larry1337-cat&theme=dark&chart=bar" alt="Viet Stats Card" />
+  <img src="https://viet-stats-card.vercel.app/api/stats?username=larry1337-cat&theme=light&chart=bar" alt="Viet Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Larry1337-cat&theme=radical&utcOffset=7" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Larry1337-cat&theme=github&utcOffset=7" alt="productive time" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Larry1337-cat/Larry1337-cat/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Larry1337-cat/Larry1337-cat/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---

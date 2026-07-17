@@ -40,7 +40,7 @@ Loc:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://viet-stats-card.vercel.app/api/stats?username=larry1337-cat&theme=light&chart=bar" alt="Viet Stats Card" />
+  <img src="https://viet-stats-card.vercel.app/api/stats?username=larry1337-cat&theme=light&chart=bar&langs_count=10" alt="Viet Stats Card" />
 </p>
 
 <p align="center">

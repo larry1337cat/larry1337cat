@@ -40,15 +40,15 @@ Loc:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://viet-stats-card.vercel.app/api/stats?username=larry1337-cat&theme=light&chart=bar&langs_count=10" alt="Viet Stats Card" />
+  <img src="https://viet-stats-card.vercel.app/api/stats?username=larry1337cat&theme=light&chart=bar&langs_count=10" alt="Viet Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Larry1337-cat&theme=github&utcOffset=7" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Larry1337cat&theme=github&utcOffset=7" alt="productive time" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Larry1337-cat/Larry1337-cat/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Larry1337cat/Larry1337cat/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ Loc:
 ## Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Larry1337-cat&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Larry1337cat&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
